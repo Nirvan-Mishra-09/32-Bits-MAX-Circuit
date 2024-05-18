@@ -1,3 +1,4 @@
+
 # 32-Bits-Sequential-MAX-Circuit
 
 **Task**
@@ -14,3 +15,5 @@ The counter unit counts the number of clock cycles (at each rising edge), the un
 _Truth Table_
 
 ![image](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/c55dcb61-1ac2-4f9b-a4ff-eea1492bbdf2)
+
+![counter diagram](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/c0a2a0a9-c39c-4f3e-b546-7ba461d2e894)
