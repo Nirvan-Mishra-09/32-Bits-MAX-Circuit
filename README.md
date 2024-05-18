@@ -8,3 +8,8 @@ This repo describes the design of a sequential MAX circuit for eight unsigned 4-
 ![image](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/ee5330bd-1eab-4891-8d4b-211680d38c4e)
 
 _Counter Circuit_
+
+The counter unit counts the number of clock cycles (at each rising edge), the unit is built using a 1 bit register, that is constructed using D flip flop. 
+
+_Truth Table_
+![image](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/c55dcb61-1ac2-4f9b-a4ff-eea1492bbdf2)
