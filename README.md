@@ -47,3 +47,12 @@ Circuit for boolean expression "b":
 _Data Selector_
 
 ![data_selector](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/ff5b25fe-41bc-415b-834b-1d3aeb6b242c)
+
+**Memory File**
+
+A 4-bit memory file constructed with D flip-flops (DFFs) operates as a fundamental component in digital systems, facilitating the storage and retrieval of binary data. Each DFF within the memory file represents one bit of the overall memory capacity. When reset is high (1), all D flip-flops within the memory file are set to 0. When the reset signal is asserted, it triggers the DFFs to reset to their default state, setting all bits to 0. Subsequently, as data is inputted into the memory file each D flip-flop stores one bit of the binary data. For instance, let’s denote the D flip-flops as DFF0, DFF1, DFF2, and DFF3, representing the four bits of the memory file. The data input lines are labeled D0, D1, D2, and D3 respectively, and the output lines are Q0, Q1, Q2, and Q3. When new data is presented to the memory file, it’s synchronized with the clock signal, causing the D flip-flops to latch the input data. Upon the rising edge of the clock, the data on the D input of each flip-flop is transferred to its output, thereby preserving the stored information until the next clock cycle.
+
+_Memory Schematic_
+
+![Memory_schematic](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/91e0b255-bb92-42b0-bd8b-506de485b9f2)
+
