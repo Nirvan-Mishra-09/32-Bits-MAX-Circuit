@@ -7,3 +7,4 @@ This repo describes the design of a sequential MAX circuit for eight unsigned 4-
 **Block Diagram**
 ![image](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/ee5330bd-1eab-4891-8d4b-211680d38c4e)
 
+_Counter Circuit_
