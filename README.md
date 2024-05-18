@@ -9,7 +9,7 @@ This repo describes the design of a sequential MAX circuit for eight unsigned 4-
 **Block Diagram**
 ![image](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/ee5330bd-1eab-4891-8d4b-211680d38c4e)
 
-_Counter Circuit_
+**Counter Circuit**
 
 The counter unit counts the number of clock cycles (at each rising edge), the unit is built using a 1 bit register, that is constructed using D flip flop. 
 
@@ -31,3 +31,9 @@ _Counter Circuit in Cadence Virtuoso_
 _Counter Waveform_
 
 ![counter_waveform](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/8567cc75-8fe5-41ed-9426-d42ffc38ef9b)
+
+**Data Selector Circuit**
+
+The data selector module is essential to the data selection process because it provides inputs to the sorter unit. It receives two inputs, Q0 and Q1, which are obtained from the counter output and operate on a clock cycle basis. The sorter unit then carefully examines these inputs to determine which one has a higher value. The output of the higher value is then forwarded by the sorter unit.
+
+![image](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/24fccd99-0727-47e2-bcae-f442250635ff)
