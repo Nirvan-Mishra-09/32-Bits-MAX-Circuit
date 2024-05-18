@@ -64,4 +64,8 @@ _1 bit DFF_
 
 **MAX Circuit**
 
+This mechanism outlines a sequential comparison process implemented over multiple clock cycles to determine the maximum value among a series of inputs. During the first clock cycle, the inputs x7 and x6 undergo
+comparison using the initial sorter unit. The maximum value is then captured and stored in a register. In the subsequent clock cycle, the output of this register, representing the previously determined maximum value, is juxtaposed with the input values x5 and x4 using the second sorter unit. Through this comparison, the new maximum value is identified. This iterative process continues over subsequent clock cycles, with each cycle focusing on a new set of inputs. In the third clock cycle, the comparison occurs between x3 and x2 to update the current maximum value. Similarly, in the fourth clock cycle, the comparison takes place between x1 and x0, ultimately concluding the determination of the overall maximum value among the input set. By systematically comparing subsets of inputs across consecutive clock cycles, this mechanism ensures a thorough evaluation of the entire input range while efficiently identifying the maximum value within the dataset. This approach leverages the sorter units in tandem with registers to streamline the comparison process, enabling accurate and sequential determination of the maximum value over multiple iterations.
+
+
 ![MAX](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/8e603196-7473-4b2b-a88d-ed08ab77b6c3)
