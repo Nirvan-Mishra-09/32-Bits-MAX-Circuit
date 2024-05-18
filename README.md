@@ -1,4 +1,5 @@
 
+
 # 32-Bits-Sequential-MAX-Circuit
 
 **Task**
@@ -26,3 +27,7 @@ Truth Table for 2 bit counter
 _Counter Circuit in Cadence Virtuoso_
 
 ![counter diagram](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/c0a2a0a9-c39c-4f3e-b546-7ba461d2e894)
+
+_Counter Waveform_
+
+![counter_waveform](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/8567cc75-8fe5-41ed-9426-d42ffc38ef9b)
