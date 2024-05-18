@@ -1,5 +1,3 @@
-
-
 # 32-Bits-Sequential-MAX-Circuit
 
 **Task**
@@ -37,3 +35,12 @@ _Counter Waveform_
 The data selector module is essential to the data selection process because it provides inputs to the sorter unit. It receives two inputs, Q0 and Q1, which are obtained from the counter output and operate on a clock cycle basis. The sorter unit then carefully examines these inputs to determine which one has a higher value. The output of the higher value is then forwarded by the sorter unit.
 
 ![image](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/24fccd99-0727-47e2-bcae-f442250635ff)
+
+Circuit for boolean expression "a":
+
+![a](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/40e2107b-2fe6-4bbc-8f12-6fa8ae4eb80f)
+
+Circuit for boolean expression "b":
+
+![b drawio](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/e726bbbe-e172-4d6c-afec-c1b100888bf1)
+
