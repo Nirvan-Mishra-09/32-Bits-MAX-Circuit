@@ -44,3 +44,5 @@ Circuit for boolean expression "b":
 
 ![b drawio](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/e726bbbe-e172-4d6c-afec-c1b100888bf1)
 
+_Data Selector_
+![data_selector](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/ff5b25fe-41bc-415b-834b-1d3aeb6b242c)
