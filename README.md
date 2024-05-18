@@ -14,7 +14,10 @@ The counter unit counts the number of clock cycles (at each rising edge), the un
 
 _Truth Table_
 
-![image](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/c55dcb61-1ac2-4f9b-a4ff-eea1492bbdf2)
+![Truth Table for D Flip Flop](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/c55dcb61-1ac2-4f9b-a4ff-eea1492bbdf2)
+
+![Truth Table for @ bit counter](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/be84f948-dcc9-4002-af34-3123519268f5)
+
 
 _Counter Circuit in Cadence Virtuoso_
 
