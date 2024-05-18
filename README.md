@@ -1,3 +1,4 @@
+
 # 32-Bits-Sequential-MAX-Circuit
 
 **Task**
@@ -56,3 +57,6 @@ _Memory Schematic_
 
 ![Memory_schematic](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/91e0b255-bb92-42b0-bd8b-506de485b9f2)
 
+_1 bit DFF_
+
+![dff_block drawio](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/8aee98d3-992d-4a23-ad80-25a560e43962)
