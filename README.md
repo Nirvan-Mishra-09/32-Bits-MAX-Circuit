@@ -71,5 +71,6 @@ comparison using the initial sorter unit. The maximum value is then captured and
 ![MAX](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/8e603196-7473-4b2b-a88d-ed08ab77b6c3)
 
 _Output_
+
 ![out_waveform](https://github.com/Nirvan-Mishra-09/32-Bits-Sequential-MAX-Circuit/assets/127642231/1967438b-f6e7-4a17-813f-e52cf4a89a5f)
 
